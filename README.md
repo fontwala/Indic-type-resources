@@ -2,17 +2,17 @@
 
 ## Contents
 
-- [Script and Language Resources] (#script-and-language-resources)
-- [Libraries and Collections] (#libraries-and-collections)
-- [Books] (#books)
-- [Videos] (#videos)
-- [Organizations] (#organizations)
-- [Events] (#events)
-- [Font Development] (#font-development)
-- [Keyboards and Software] (#keyboards-and-software)
-- [Free or Open Source Fonts] (#free-or-open-source-fonts)
-- [Commercial or Proprietary Fonts] (#commercial-or-proprietary-fonts)
-- [Type Foundries and Designers] (#type-foundries-and-designers)
+- [Script and Language Resources](#script-and-language-resources)
+- [Libraries and Collections](#libraries-and-collections)
+- [Books](#books)
+- [Videos](#videos)
+- [Organizations](#organizations)
+- [Events](#events)
+- [Font Development](#font-development)
+- [Keyboards and Software](#keyboards-and-software)
+- [Free or Open Source Fonts](#free-or-open-source-fonts)
+- [Commercial or Proprietary Fonts](#commercial-or-proprietary-fonts)
+- [Type Foundries and Designers](#type-foundries-and-designers)
 
 
 
