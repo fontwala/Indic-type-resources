@@ -2,9 +2,10 @@
 
 ## Contents
 
-- [Script and Language Resources](#script-and-language-resources)
+- [Script and Language Info](#script-and-language-info)
 - [Libraries and Collections](#libraries-and-collections)
-- [Books](#books)
+- [Image Resources](#image-resources)
+- [Books and Articles](#books-and-articles)
 - [Videos](#videos)
 - [Organizations](#organizations)
 - [Events](#events)
@@ -16,7 +17,7 @@
 
 
 
-## Script and Language Resources
+## Script and Language Info
 - [ScriptSource](https://www.scriptsource.org/cms/scripts/page.php?)
 
 ## Libraries and Collections
@@ -25,8 +26,17 @@
 - [British Library South Asia](https://www.bl.uk/subjects/south-asia)
 - [SOAS Library](https://www.soas.ac.uk/library/) - School of Oriental and Asian Studies
 
-## Books
+## Image Resources
+Digitized books
+
 - [Servants of Knowledge](https://archive.org/details/ServantsOfKnowledge?&sort=-week&page=1) - Scanned books in Kannada, Konkani, Tamil, Malayalam, Sindhi
+
+Lettering
+
+Calligraphy
+
+## Books and Articles
+
 - need an Indic type reading list to link to...
 
 ## Videos
@@ -36,6 +46,9 @@
 - [CDAC](https://www.cdac.in/) - Centre for Development of Advanced Computing
 - [Aksharaya](http://aksharaya.org/en/landing/) - Letter Conscious People
 - [In-De-As: India Design Association](http://www.in-de-as.org/)
+- [Akuru](https://akuru.space/?fbclid=IwAR3nyNC8PR3b16Ss8oqwGHliokUTSs6BPPhlSxGlXPf8a7iF2DqLvBBTkQA) - Sinhala and Tamil association
+- [Typography Society of India](https://typographyindia.blogspot.com/)
+- [W3C India International Program task force](https://github.com/w3c/iip/)
 
 ## Events
 - [TypoDay](http://www.typoday.in/) - Annual typography conference
@@ -92,7 +105,7 @@ Multi-script
 - [Mota Italic](https://www.motaitalic.com/)
 
 Bangla
-- [Bengal Fonts] - (https://bengalfonts.com/)
+- [Bengal Fonts](https://bengalfonts.com/)
 
 Telugu
 - [Telugu Type Foundry](http://telugutype.com/)
